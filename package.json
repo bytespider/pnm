@@ -1,0 +1,26 @@
+{
+  "name": "ppm",
+  "version": "0.0.0",
+  "description": "A Portable Any Map parser http://netpbm.sourceforge.net/doc/pnm.html",
+  "main": "src/pnm.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bytespider/pnm"
+  },
+  "keywords": [
+    "image",
+    "parse",
+    "netpbm",
+    "pgm",
+    "pgb",
+    "pnm"
+  ],
+  "author": "Rob Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytespider/pnm/issues"
+  }
+}
