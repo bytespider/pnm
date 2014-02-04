@@ -1,6 +1,6 @@
 {
   "name": "ppm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Portable Any Map parser http://netpbm.sourceforge.net/doc/pnm.html",
   "main": "src/pnm.js",
   "scripts": {
